@@ -1,0 +1,12 @@
+%
+% Erikas Kėvelaitis EF-25/2 2026-09-11
+%
+
+%
+%Paprastas skriptas
+%
+
+x = 1:32;
+y = x.^2;
+
+plot(x, y, '')
